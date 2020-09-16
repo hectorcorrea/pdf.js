@@ -1,4 +1,12 @@
-# PDF.js [![Build Status](https://travis-ci.org/mozilla/pdf.js.svg?branch=master)](https://travis-ci.org/mozilla/pdf.js)
+# PDF.js (fork)
+
+This repo is a fork of [Mozilla PDF.js](https://github.com/mozilla/pdf.js).
+
+The code in the `brown_cdl` branch is what we use as the starting point for our custom PDF viewer in the Brown CDL application.
+
+The current release [CDL Base 1.0](https://github.com/hectorcorrea/pdf.js/releases/tag/cdl_base_1.0) contains all the files produced via `gulp generic` against commit `7dabc5ecc8347fbda8ce4a219c182790d9ec9187`.
+
+# Original README starts here
 
 [PDF.js](https://mozilla.github.io/pdf.js/) is a Portable Document Format (PDF) viewer that is built with HTML5.
 
